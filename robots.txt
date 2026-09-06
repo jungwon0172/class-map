@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://class-map.vercel.app/sitemap.xml
